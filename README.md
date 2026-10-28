@@ -47,7 +47,7 @@ B.Tech CSE (AI & ML) graduate from Alliance University (84.6%) — I build compl
 ---
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vasaviannapureddy-a97491226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vasavi-annapureddy)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/vasaviAnnapureddy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://vasaviannapureddy.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:annapuvasavi4014@gmail.com)
